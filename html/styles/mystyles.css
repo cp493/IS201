@@ -1,0 +1,44 @@
+<!--Connor Pay April 14 -->
+
+body {
+    font-family: sans-serif
+}
+
+.color {
+    color:rgb(0, 132, 255);
+}
+
+.lower {
+    font-size:24px;
+    font-style: normal;
+    
+}
+.upper {
+    font-size: 48px;
+    font-style: oblique;
+}
+.Nate {
+    font-display: fallback;
+   color: purple; 
+    
+}
+.site-heading-upper{
+    font-style: italic
+}
+.site-heading-lower{
+    font-style: italic;
+}
+
+.section-heading-lower{
+    text-align: center;
+}
+  body{font-family:Lora;
+     background-image:linear-gradient(
+         rgba(47,23,15,.65),
+         rgba(47,23,15,.65)
+     ),
+         url(../../images/football.jpeg);
+     background-attachment:fixed;
+     background-position:center;
+     background-size:cover ;
+}

@@ -1,0 +1,31 @@
+<!--Connor Pay April 14 -->
+
+
+
+
+.IP{
+    font-style: italic ; }
+
+.section-heading-upper {
+    font-size: 24px;
+    font-style: normal;
+    font-display: block;
+    color: floralwhite;
+    
+}
+body{font-family:Lora;
+     background-image:linear-gradient(
+         rgba(185, 180, 178, 0.65),
+         rgba(179, 166, 162, 0.65)
+     ),
+         url(../../images/football.jpeg);
+     background-attachment:fixed;
+     background-position:center;
+     background-size:cover ;
+}
+.site-heading-upper{
+    font-size: 48px;
+}
+.mb-0{
+    color: floralwhite;
+}
